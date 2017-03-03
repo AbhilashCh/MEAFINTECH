@@ -1,0 +1,41 @@
+div.ibm-video-player-con {
+    margin-bottom: 0px;
+}
+.ibm-icononly {
+    padding-bottom: 50px;
+    padding-left: 42%;
+    padding-top: 60px;
+}
+.meaPaddingZero {
+    padding: 0px;
+}
+.ibm-background-meaBlue {
+    background-color: #5596e6;
+}
+.mea-heading-padding {
+    padding-top: 90px;
+    padding-bottom: 36px;
+}
+.mea-button-padding {
+    padding-top: 20px;
+    padding-bottom: 68px;
+}
+.mea-button {
+    background-color: #ffffff;
+    height: 40px;
+    border: none;
+    color: #478de4 !important;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+.mea-button:hover,
+.mea-button:focus,
+.mea-button:hover,
+.mea-button:focus {
+    background-color: #fff;
+    border-color: #fff;
+    text-decoration: none;
+}
+#ibm-leadspace-body {
+    padding: 0px;
+}
